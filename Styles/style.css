@@ -183,6 +183,7 @@
     line-height: 20px;
     padding-top: 10px;
 }
+
 .h-btn-primary {
     background-color: #E55473;
     color: white;
@@ -195,3 +196,46 @@
 }
 
 /* hot deal section end  */
+
+/* instagram section start  */
+
+.insta-pic {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    gap: 60px;
+}
+
+.insta-01 {
+    width: 232px;
+    height: 276px;
+}
+
+.insta-02 {
+    width: 232px;
+    height: 276px;
+}
+
+.insta-03 {
+    width: 232px;
+    height: 276px;
+}
+
+.insta-04 {
+    width: 232px;
+    height: 276px;
+}
+
+.insta-title {
+    color: #272727;
+    text-align: center;
+    font-family: sans-serif;
+    padding-top: 120px;
+    font-weight: 800;
+}
+.insta-description {
+    
+}
+
+/* instagram section end  */
