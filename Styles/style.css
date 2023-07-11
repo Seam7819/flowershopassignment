@@ -235,7 +235,24 @@
     font-weight: 800;
 }
 .insta-description {
+    text-align: center;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 15px;
+    font-weight: 250;
     
+    padding-top: 10px;
+    font-family: sans-serif;
 }
 
 /* instagram section end  */
+
+
+ /* input and banner section start   */
+
+.input-banner-section {
+    height: 50vh;
+    background-size: cover;
+    background-image: url("/Flower Asset/Rectangle 9.png");
+}
+
+  /* input and banner section end   */
