@@ -75,6 +75,7 @@
     height: 390px;
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
+    box-shadow: 10px 10px 10px rgb(253, 165, 165);
 }
 
 .flower-pic-02 {
@@ -82,6 +83,7 @@
     background: rgba(5, 151, 160, 0.15);
     width: 316px;
     height: 390px;
+    box-shadow: 10px 10px 10px rgb(253, 165, 165);
 }
 
 .flower-pic-03 {
@@ -89,6 +91,7 @@
     height: 390px;
     border-radius: 300px 300px 0px 0px;
     background: rgba(71, 125, 17, 0.15);
+    box-shadow: 10px 10px 10px rgb(253, 165, 165);
 }
 
 .all-features {
@@ -212,21 +215,25 @@
 .insta-01 {
     width: 232px;
     height: 276px;
+    box-shadow: 10px 10px 10px rgb(253, 165, 165);
 }
 
 .insta-02 {
     width: 232px;
     height: 276px;
+    box-shadow: 10px 10px 10px rgb(253, 165, 165);
 }
 
 .insta-03 {
     width: 232px;
     height: 276px;
+    box-shadow: 10px 10px 10px rgb(253, 165, 165);
 }
 
 .insta-04 {
     width: 232px;
     height: 276px;
+    box-shadow: 10px 10px 10px rgb(253, 165, 165);
 }
 
 .insta-title {
@@ -276,6 +283,7 @@
     font-size: 15px;
     font-weight: 250;
     line-height: 30px;
+    padding-top: 5px;
 
 }
 
