@@ -234,12 +234,13 @@
     padding-top: 120px;
     font-weight: 800;
 }
+
 .insta-description {
     text-align: center;
     color: rgba(39, 39, 39, 0.60);
     font-size: 15px;
     font-weight: 250;
-    
+
     padding-top: 10px;
     font-family: sans-serif;
 }
@@ -247,12 +248,15 @@
 /* instagram section end  */
 
 
- /* input and banner section start   */
+/* input and banner section start   */
 
 .input-banner-section {
-    height: 50vh;
-    background-size: 80%;
-    background-image: url("/Flower Asset/Rectangle 9.png");
+    width: 1440px;
+    height: 449px;
+    border-radius: 8px;
+    background: url('/Flower\ Asset/Rectangle 9.png'), lightgray 0px -203.444px / 100% 213.755% no-repeat;
+
+
 }
 
-  /* input and banner section end   */
+/* input and banner section end   */
